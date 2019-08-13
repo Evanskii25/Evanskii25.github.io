@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 5px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  style= "color: aqua";
+  font-size: 16px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.phoneicon {
+  padding: 5px;
+  margin: 15px;
+}
+
+.footer {
+  text-align: right;
+  padding: 5px;
+  margin: 30px;
+  color: gray;
+}
+
+.downloadlink a{
+color: aqua;
+
+}
+
